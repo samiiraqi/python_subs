@@ -52,6 +52,4 @@ def test_all():
     decrypted = decrypt_text(encrypted , dec_key)
     print(f"Decrypted Text:\n{decrypted}\n")
 
-#Run the demonstration
-if __name__ == "__main__":
-      test_all()            
+          
